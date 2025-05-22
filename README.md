@@ -1,4 +1,6 @@
-## Hi there 👋
+## About Me
+
+Hi! I'm Deryn, a high school student passionate about learning and growth.
 
 <!--
 **deryntheone/deryntheone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
