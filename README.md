@@ -7,5 +7,6 @@
 
 ## Projects 🖥
 ### Frontend
-
-[Single-Page CV](https://github.com/deryntheone/deryntheone/tree/main/Frontend/Single-Page%20CV) - HTML
+| Title            | Language | Idea                                                        |
+|------------------|----------| ------------------------------------------------------------|
+| Single-Page CV   | HTML     | [roadmap.sh](https://roadmap.sh/projects/single-page-cv)    |
