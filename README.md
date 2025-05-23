@@ -4,3 +4,8 @@
 
 👋 Hi! I'm Deryn, a high school student 👩‍🎓 passionate about learning and growth. </br>
 💪 My current hobbies are reading, 📚 programming, 🖥 graphic design, 🎨 and writing! 📰
+
+## Projects 🖥
+### Frontend
+
+[Single-Page CV](https://github.com/deryntheone/deryntheone/tree/main/Frontend/Single-Page%20CV) - HTML
