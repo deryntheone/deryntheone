@@ -9,5 +9,5 @@
 ### Frontend
 | Title                                                                                                         | Language | Idea                                                        |
 |---------------------------------------------------------------------------------------------------------------|----------| ------------------------------------------------------------|
-| [Single-Page CV](https://github.com/deryntheone/deryntheone/tree/main/Frontend/01%Single-Page%20CV)           | HTML     | [roadmap.sh](https://roadmap.sh/projects/single-page-cv)    |
-| [Basic HTML Website](https://github.com/deryntheone/deryntheone/tree/main/Frontend/02%Basic%20HTML%20Website) | HTML     | [roadmap.sh](https://roadmap.sh/projects/basic-html-website)|
+| [Single-Page CV](https://github.com/deryntheone/deryntheone/tree/main/Frontend/01%20Single-Page%20CV)         | HTML     | [roadmap.sh](https://roadmap.sh/projects/single-page-cv)    |
+| [Basic HTML Website](https://github.com/deryntheone/deryntheone/tree/main/Frontend/02%20Basic%20HTML%20Website) | HTML     | [roadmap.sh](https://roadmap.sh/projects/basic-html-website)|
