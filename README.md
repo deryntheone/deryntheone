@@ -7,7 +7,7 @@
 
 ## Projects 🖥
 ### Frontend
-| Title                                                                                                      | Language | Idea                                                        |
-|------------------------------------------------------------------------------------------------------------|----------| ------------------------------------------------------------|
-| [Single-Page CV](https://github.com/deryntheone/deryntheone/tree/main/Frontend/Single-Page%20CV)           | HTML     | [roadmap.sh](https://roadmap.sh/projects/single-page-cv)    |
-| [Basic HTML Website](https://github.com/deryntheone/deryntheone/tree/main/Frontend/Basic%20HTML%20Website) | HTML     | [roadmap.sh](https://roadmap.sh/projects/basic-html-website)|
+| Title                                                                                                         | Language | Idea                                                        |
+|---------------------------------------------------------------------------------------------------------------|----------| ------------------------------------------------------------|
+| [Single-Page CV](https://github.com/deryntheone/deryntheone/tree/main/Frontend/01%Single-Page%20CV)           | HTML     | [roadmap.sh](https://roadmap.sh/projects/single-page-cv)    |
+| [Basic HTML Website](https://github.com/deryntheone/deryntheone/tree/main/Frontend/02%Basic%20HTML%20Website) | HTML     | [roadmap.sh](https://roadmap.sh/projects/basic-html-website)|
