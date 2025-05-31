@@ -1,0 +1,286 @@
+@font-face {
+    font-family: "Circular";
+    src: url(../Fonts/CircularStd-Book.otf) format('opentype'),
+    url(../Fonts/CircularStd-Light.otf) format('opentype'),
+    url(../Fonts/CircularStd-Medium.otf) format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Circular";
+    src: url(../Fonts/CircularStd-Black.otf) format('opentype'),
+    url(../Fonts/CircularStd-Bold.otf) format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Circular";
+    src: url(../Fonts/CircularStd-BookItalic.otf) format('opentype'),
+    url(../Fonts/CircularStd-Light\ Italic.otf) format('opentype'),
+    url(../Fonts/CircularStd-MediumItalic.otf) format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Circular";
+    src: url(../Fonts/CircularStd-BlackItalic.otf) format('opentype'),
+    url(../Fonts/CircularStd-BoldItalic.otf) format('opentype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+::-webkit-scrollbar {
+    width: 0;
+}
+
+body {
+    font-family: 'Circular', sans-serif;
+    color:#ffffff;
+    background-color: #000;
+    margin:10px;
+    padding:0px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 75px 1fr;
+    height: 100vh;
+}
+
+.left-navigation {
+    background-color: #121212;
+    color: #fff;
+    padding: 1rem;
+    border-radius:20px;
+}
+
+.left-navigation img {
+    display:grid;
+    margin:15px 0;
+    margin-bottom:20px;
+    width: 32px;
+    height: auto;
+    margin-left:5px;
+}
+
+#library {
+    margin-top:30px;
+}
+
+.content {
+    padding: 2rem;
+    background-color: #121212;
+    margin-left:20px;
+    border-radius:20px;
+}
+
+.top-navigation {
+    display:flex;
+    margin-bottom:50px;
+}
+
+.top-navigation img {
+    width:32px;
+    height:auto;
+    vertical-align:middle;
+}
+
+.top-navigation-right {
+    margin-left:auto;
+}
+
+#premium {
+    border:none;
+    background:#ffffff;
+    color:#000;
+    height:32px;
+    width:175px;
+    vertical-align:middle;
+    border-radius:20px;
+    font-family: 'Circular', sans-serif;
+    font-weight:700;
+    font-size:16px;
+    cursor:pointer;
+}
+
+#install {
+    border:none;
+    background:#1b1b1b;
+    color:#fff;
+    height:32px;
+    width:175px;
+    vertical-align:middle;
+    border-radius:20px;
+    font-family: 'Circular', sans-serif;
+    font-weight:700;
+    font-size:16px;
+    cursor:pointer;
+}
+
+.undo {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.redo {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.home {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.search {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.library {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+#user {
+    cursor:pointer;
+}
+
+#notifications {
+    cursor:pointer;
+}
+
+button {
+    cursor:pointer;
+}
+
+.details {
+    display: flex;
+    align-items:center;
+    gap: 0;
+    margin:0;
+    padding:0;
+}
+
+.cover {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+.cover img {
+    width:250px;
+    height:250px;
+    object-fit:cover;
+    border-radius:5px;
+    margin:0;
+    padding:0;
+}
+
+.text {
+    font-size:40px;
+    margin-left:30px;
+}
+
+.text p {
+    font-size:20px;
+}
+
+.author {
+    display: flex;
+    align-items:center;
+    gap: 0;
+    line-height:0;
+}
+
+.logo img {
+    width:25px;
+    margin-right:10px;
+}
+
+.author p {
+    font-size:17px;
+}
+
+.buttons {
+    display:flex;
+    gap:30px;
+    align-items:center;
+    margin-top:40px;
+    margin-bottom:40px;
+}
+
+#big {
+    width:60px;
+    cursor:pointer;
+}
+
+#small1 {
+    width:40px;
+    height:40px;
+    cursor:pointer;
+}
+
+#small2 {
+    width:40px;
+    height:40px;
+    cursor:pointer;
+}
+
+.header {
+    display:flex;
+    justify-content: space-between;
+    color:#a09f9f;
+}
+
+hr {
+    background-color: #a09f9f;
+    height: 1px;
+    border: none;
+    margin:0;
+    opacity:50%
+}
+
+.songs {
+    display:flex;
+    justify-content: space-between;
+}
+
+.album {
+    color:#a09f9f;
+    text-align:right;
+}
+
+a {
+    text-decoration:none
+}
+
+a:active {
+    text-decoration:none
+}
+
+a:hover {
+    text-decoration:none
+}
+
+.name a {
+    color:#ffffff
+}
+
+.album a {
+    color: #a09f9f;
+}
