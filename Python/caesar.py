@@ -1,3 +1,5 @@
+# This was done as part of my Cybersecurity course for the Girls Who Code (GWC) Pathways program for Summer 2026.
+
 import string
 
 # Variables
